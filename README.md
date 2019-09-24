@@ -1,5 +1,6 @@
 # 42_Fdf
 Simple graphic mapping.
+
 usage:
 <pre>
 make && ./fdf map.fdf
