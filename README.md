@@ -1,4 +1,4 @@
 # 42_Fdf
 Simple graphic mapping.
 
-<img src="Screen Shot 2019-09-24 at 8.53.52 AM">
+<img src="http://piccy.info/view3/13407945/64dc50618e766f94b711a4199f0e18cc/">
